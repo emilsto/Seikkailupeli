@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/emil/CLionProjects/Adventure/cmake-build-debug"/>
+				<Option working_dir="/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/emil/CLionProjects/Adventure/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emil/CLionProjects/Adventure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emil/CLionProjects/Adventure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emil/CLionProjects/Adventure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/emil/CLionProjects/Adventure/cmake-build-debug"/>
+				<Option working_dir="/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/emil/CLionProjects/Adventure/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emil/CLionProjects/Adventure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emil/CLionProjects/Adventure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emil/CLionProjects/Adventure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/emil/CLionProjects/Adventure/cmake-build-debug"/>
+				<Option working_dir="/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/emil/CLionProjects/Adventure/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emil/CLionProjects/Adventure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emil/CLionProjects/Adventure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emil/CLionProjects/Adventure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Adventure">
-				<Option output="/Users/emil/CLionProjects/Adventure/cmake-build-debug/Adventure" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/emil/CLionProjects/Adventure/cmake-build-debug"/>
+				<Option output="/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug/Adventure" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/emil/CLionProjects/Adventure/cmake-build-debug/Makefile&quot;  VERBOSE=1 Adventure"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emil/CLionProjects/Adventure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emil/CLionProjects/Adventure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emil/CLionProjects/Adventure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug/Makefile&quot;  VERBOSE=1 Adventure"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Adventure/fast">
-				<Option output="/Users/emil/CLionProjects/Adventure/cmake-build-debug/Adventure" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/emil/CLionProjects/Adventure/cmake-build-debug"/>
+				<Option output="/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug/Adventure" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,17 +73,17 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/emil/CLionProjects/Adventure/cmake-build-debug/Makefile&quot;  VERBOSE=1 Adventure/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emil/CLionProjects/Adventure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emil/CLionProjects/Adventure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emil/CLionProjects/Adventure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug/Makefile&quot;  VERBOSE=1 Adventure/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emil/C++/Gitit/Seikkailupeli/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/emil/CLionProjects/Adventure/main.cpp">
+		<Unit filename="/Users/emil/C++/Gitit/Seikkailupeli/main.cpp">
 			<Option target="Adventure"/>
 		</Unit>
-		<Unit filename="/Users/emil/CLionProjects/Adventure/CMakeLists.txt">
+		<Unit filename="/Users/emil/C++/Gitit/Seikkailupeli/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

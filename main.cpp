@@ -59,12 +59,12 @@ void getPlayerInfo(playerInfo *p, int playerID){
         std::cout<<"Valitse erikoistumisesi (1=Pers'Erkki = -10 elinvoima, +2 reach, +5 damage, 2=Tankki = +50 elinvoima, +0 reach, -2 damage, 3=Taistelija = +10 elinvoima, +1 reach, + 2 damage): ";
             std::cin>>p->playerSpec;
 
-            if  (p->playerSpec = 1){
+            if  (p->playerSpec == 1){
                 p->HP = p->HP -10;
                 p->BaseReach = p->BaseReach + 2;
                 p->BaseDamage = p->BaseDamage + 5;
             }
-                else if  (p->playerSpec = 2){
+                else if  (p->playerSpec == 2){
                  p->HP = p->HP +50;
                  p->BaseDamage = p->BaseDamage - 2;
          }
@@ -88,12 +88,12 @@ void getPlayerInfo(playerInfo *p, int playerID){
         std::cout<<"Valitse erikoistumisesi (1=Mustavelho = -30 elinvoima, +2 reach, +5 damage, 2=Punavelho = +0 elinvoima, +0 reach, +0 damage, 3=Sinivelho = +10 elinvoima, +1 reach, - 10 damage): ";
         std::cin>>p->playerSpec;
 
-        if  (p->playerSpec = 1){
+        if  (p->playerSpec == 1){
             p->HP = p->HP -10;
             p->BaseReach = p->BaseReach + 2;
             p->BaseDamage = p->BaseDamage + 5;
         }
-        else if  (p->playerSpec = 2){
+        else if  (p->playerSpec == 2){
             p->HP = p->HP +50;
             p->BaseDamage = p->BaseDamage - 2;
         }
